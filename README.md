@@ -1,12 +1,12 @@
-# C Lab Programs
+# DSA Lab Programs
 
-A small collection of **C programs from my college lab**.
+A small collection of **DSA programs from my college lab**.
 
 Made this repo so:
 
 * I don’t lose my code
 * My friends can **copy it before lab submission panic**
-* Everyone survives C programming 👍
+* Everyone survives DSA programming 👍
 
 ## How to use
 
