@@ -13,9 +13,15 @@ Made this repo so:
 1. Find the program you need
 2. Copy it
 3. Compile and run
+4. Pretend you wrote it from scratch
 
 ```bash
 gcc program.c
+./a.out
+```
+Or (if a Makefile is included):
+```bash
+make
 ./a.out
 ```
 
